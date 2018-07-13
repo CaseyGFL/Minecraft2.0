@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 4866959842717046}
   m_Layer: 10
   m_Name: Dirt
-  m_TagString: Chunk8
+  m_TagString: Chunk7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

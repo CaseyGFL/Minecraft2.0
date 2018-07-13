@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4673086643139822}
   m_Layer: 12
   m_Name: DarkMatter
-  m_TagString: Chunk8
+  m_TagString: Chunk7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
