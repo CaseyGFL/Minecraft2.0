@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Chunk0
+  - Chunk1
+  - Chunk2
+  - Chunk3
+  - Chunk4
+  - Chunk5
+  - Chunk6
+  - Chunk7
+  - Chunk8
+  - Col0
+  - Col1
+  - Col2
+  - Col3
+  - Col4
+  - Col5
+  - Col6
+  - Col7
+  - Col8
+  - TriggerColider
+  - buildCube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Grass
+  - Dirt
+  - Stone
+  - DarkMatter
+  - Top
+  - Down
+  - Left
+  - Right
+  - Up
+  - Down2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
